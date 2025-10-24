@@ -1,6 +1,7 @@
 # KOGENT
-
 KOGENT (KOrean GENder-sensitivity Tagged dataset) is a benchmark dataset for evaluating gender sensitivity in Korean political discourse using large language models.
+
+**Dataset**: Available on [figshare](https://figshare.com/articles/dataset/A_benchmark_dataset_for_evaluating_gender_sensitivity_in_Korean_political_discourse_with_large_language_models/30413125/3)
 
 ## Features
 
