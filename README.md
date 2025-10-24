@@ -7,8 +7,8 @@ KOGENT (KOrean GENder-sensitivity Tagged dataset) is a benchmark dataset for eva
 * **1,222 transcripts** from the Korean National Assembly (1948-2024) spanning 76 years of legislative history
 * **6,024 human-annotated utterances** labeled for gender sensitivity levels (high or low)
 * Coverage of plenary sessions, standing committees, special committees, and hearings
-* **High annotation reliability**: Cohen's κ = 0.96, Krippendorff's α = 0.95
-* Target group tagging (women, men, sexual minorities, all genders)
+* **Inter-annotator agreement**: Cohen's κ = 0.96, Krippendorff's α = 0.95
+* Target groups: women, men, sexual minorities, all genders
 * Context-sensitive annotations accounting for historical and cultural nuances
 
 ## Benchmark Performance
